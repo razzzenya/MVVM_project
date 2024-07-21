@@ -1,0 +1,10 @@
+﻿<Application x:Class="MVVM_project.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MVVM_project.ViewModels"
+             xmlns:m="clr-namespace:MVVM_project.Models"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        
+    </Application.Resources>
+</Application>
